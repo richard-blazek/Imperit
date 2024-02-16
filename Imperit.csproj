@@ -3,6 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <BlazorLinkOnBuild>false</BlazorLinkOnBuild>
     <Nullable>enable</Nullable>
+    <UserSecretsId>0e044073-9261-47bc-8673-1c6bada91c2c</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="DocumentFormat.OpenXml" Version="2.11.0" />
